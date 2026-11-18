@@ -1,0 +1,44 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+    <student>
+        <id>1</id>
+        <name>Ali Ahmed</name>
+        <age>18</age>
+        <department>Computer Science</department>
+        <email>ali@gmail.com</email>
+    </student>
+
+    <student>
+        <id>2</id>
+        <name>Ahmed Khan</name>
+        <age>19</age>
+        <department>Information Technology</department>
+        <email>ahmed@gmail.com</email>
+    </student>
+
+    <student>
+        <id>3</id>
+        <name>Usman Ali</name>
+        <age>20</age>
+        <department>Software Engineering</department>
+        <email>usman@gmail.com</email>
+    </student>
+
+    <student>
+        <id>4</id>
+        <name>Hassan Raza</name>
+        <age>18</age>
+        <department>Computer Science</department>
+        <email>hassan@gmail.com</email>
+    </student>
+
+    <student>
+        <id>5</id>
+        <name>Bilal Ahmed</name>
+        <age>21</age>
+        <department>Information Technology</department>
+        <email>bilal@gmail.com</email>
+    </student>
+</students>
